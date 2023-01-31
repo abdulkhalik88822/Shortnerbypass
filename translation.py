@@ -14,8 +14,6 @@ I Am Playerx.in, Bulk Link Converter. I Can Convert Links Directly From Your Acc
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
-**💁‍♀️ Hit** 👉 /help To Get Help.
-**➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
 If You Want Any **Other Shortner** Link Converter Bot Instead Of playerx.in than **contact** at 👉 @EagleIX (all **shortners** support available.)
@@ -33,7 +31,6 @@ I Am Playerx.in, Bulk Link Converter Bot. I Can Convert Links Directly From Your
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
-**💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
@@ -149,12 +146,12 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello {}, I am playerx.in, Bulk Link Converter Bot From Linked playerx.in Account,**
+USERNAME_TEXT = """**Hello, I am playerx.in, Bulk Link Converter Bot From Linked playerx.in Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel PlayerXLinks
+/channel @PlayerXLinks
 Or
 /channel https://t.me/PlayerXLinks
 
