@@ -52,7 +52,7 @@ ABOUT_TEXT = '''**Hey! My name is @Player_X_Bot. I am Shortener Fly Link Convert
 
 • I Can **replace / remove** other's **channel links** with **your channel** link. Hit 👉 /channel To know More...
 
-• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner To Know More... 
+• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner_image To Know More... 
 
 • **No** need to share **password or email** to convert links.**
 
@@ -127,7 +127,7 @@ USER_ABOUT_MESSAGE = """
 
 
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
-`/set_api [api]`
+`/api [api]`
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
