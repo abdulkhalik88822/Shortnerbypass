@@ -56,7 +56,7 @@ ABOUT_TEXT = '''**Hey! My name is @Player_X_Bot. I am Shortener Fly Link Convert
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of Playerx.in than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of Playerx.in than **contact** at 👉 @EagleIX (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
