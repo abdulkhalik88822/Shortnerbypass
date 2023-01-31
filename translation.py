@@ -18,7 +18,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of playerx.in than **contact** at 👉 @Cyniteofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of playerx.in than **contact** at 👉 @EagleIX (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
@@ -37,7 +37,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Playerx.in** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Playerx.in** than **contact** at 👉 @EagleIX (all **shortners support** available.)**
 '''
 
 ABOUT_TEXT = '''**Hey! My name is @Player_X_Bot. I am Shortener Fly Link Converter Bot.**
@@ -65,7 +65,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/cynitebackup | cynitebackup"""
+Ex: https://t.me/PlayerXLinks | PlayerXLinks"""
 
 
 ADMINS_MESSAGE = """
@@ -149,18 +149,18 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am shortnerfly.com, Bulk Link Converter Bot From Linked shortnerfly.com Account,**
+USERNAME_TEXT = """**Hello Harman, I am playerx.in, Bulk Link Converter Bot From Linked playerx.in Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @cynitebackup
+/channel PlayerXLinks
 Or
-/channel https://t.me/shortnerfly
+/channel https://t.me/PlayerXLinks
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @cyniteofficial For More Help -**"""
+**- Message @EagleIX For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
