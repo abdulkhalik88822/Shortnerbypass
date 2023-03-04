@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "5cf3577d85fd02286535ec2296934287")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6285348168:AAFXZVnBswWDI5eOZQiZQMLglVlROCjpvWc")
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("6164919099")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Shbsnanamxmdmnsubham")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "subhamkabpt")
 DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority") 
 OWNER_ID =  int(os.environ.get("OWNER_ID", "6164919099")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
