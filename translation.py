@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Playerx.in, Bulk Link Converter. I Can Convert Links Directly From Your Account,
+I Am Mdiskconvertor.site, Bulk Link Converter. I Can Convert Links Directly From Your Account,
     
-1. Go To 👉 https://Playerx.in/member/tools/api  
+1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -14,15 +14,17 @@ I Am Playerx.in, Bulk Link Converter. I Can Convert Links Directly From Your Acc
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
+**💁‍♀️ Hit** 👉 /help To Get Help.
+**➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of playerx.in than **contact** at 👉 @EagleIX (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly than **contact** at 👉 @Shubhamdev64 (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am Playerx.in, Bulk Link Converter Bot. I Can Convert Links Directly From Your Playerx.in Account,**
+I Am mdiskconvertor.site, Bulk Link Converter Bot. I Can Convert Links Directly From Your mdiskconvertor.site Account,**
     
-1. Go To 👉 https://Playerx.in/member/tools/api  
+1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -31,17 +33,18 @@ I Am Playerx.in, Bulk Link Converter Bot. I Can Convert Links Directly From Your
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
+**💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Playerx.in** than **contact** at 👉 @EagleIX (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""mdiskconvertor.site** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @Player_X_Bot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @mdisk_url_convertor_bot. I am mdiskconvertor.site Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Playerx.in** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **Mdiskconvertor** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -49,11 +52,11 @@ ABOUT_TEXT = '''**Hey! My name is @Player_X_Bot. I am Shortener Fly Link Convert
 
 • I Can **replace / remove** other's **channel links** with **your channel** link. Hit 👉 /channel To know More...
 
-• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner_image To Know More... 
+• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner To Know More... 
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of Playerx.in than **contact** at 👉 @EagleIX (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of Mdiskconvertor than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -62,7 +65,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/PlayerXLinks | PlayerXLinks"""
+Ex: https:/t.me/mdiskconvertorupdates | Mdiskconvertor"""
 
 
 ADMINS_MESSAGE = """
@@ -93,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://Playerx.in/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://mdiskconvertor.site/member/tools/api')
     ]
 ])
 
@@ -107,9 +110,9 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://Playerx.in)
+- Website: [{base_site}](https://mdiskconvertor.site/ref/cyniteofficial)
 
-- Site Link {base_site} Current Linked API: {shortener_api}
+- Site Link {base_site} Current Linked API: {Mdiskconvertor_api}
 
 - Replace Channel Username: @{username}
 
@@ -124,11 +127,11 @@ USER_ABOUT_MESSAGE = """
 
 
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
-`/api [api]`
+`/set_api [api]`
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://Playerx.in)
+Get API From [{base_site}](https://mdiskconvertor.site/ref/cyniteofficial)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -146,18 +149,18 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello, I am playerx.in, Bulk Link Converter Bot From Linked playerx.in Account,**
+USERNAME_TEXT = """**Hello {}, I am Mdisk URL convertor, Bulk Link Converter Bot From Linked mdiskconvertor.site Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @PlayerXLinks
+/channel @mdiskconvertorupdates
 Or
-/channel https://t.me/PlayerXLinks
+/channel http://t.me/mdiskconvertorupdates
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @EagleIX For More Help -**"""
+**- Message @Shubhamdev64 For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
