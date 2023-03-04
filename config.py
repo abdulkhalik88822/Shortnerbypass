@@ -7,19 +7,19 @@ load_dotenv()
 
 
 # Mandatory variables for the bot to start
-API_ID = int(os.getenv("API_ID", "12124605"))
-API_HASH = os.environ.get("API_HASH", "5cf3577d85fd02286535ec2296934287")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5954482922:AAE05jli8jmzBp7MXa9mE4XnRulVQiadshM")
-ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("1382643117")] if os.environ.get("ADMINS") else []
+API_ID = int(os.getenv("API_ID", "26641644"))
+API_HASH = os.environ.get("API_HASH", "cc25b5e59e9d019b291b55719e1c6d09")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6142498355:AAGynBqBrRjUtGy-L0PyqNSoNOOCZhTBJUs")
+ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("6164919099")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Dbcnname")
-DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Aadarsh:Aadarsh07@cluster0.qllzcuy.mongodb.net/?retryWrites=true&w=majority") 
-OWNER_ID =  int(os.environ.get("OWNER_ID", "1382643117")) 
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Shbsnaubham")
+DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Shubham:Shubhram89@cluster0.rqe6k2e.mongodb.net/?retryWrites=true&w=majority") 
+OWNER_ID =  int(os.environ.get("OWNER_ID", "6164919099")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
-ADMINS.append(1382643117)
+ADMINS.append(6164919099)
 #  Optionnal variables
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001803407923")) 
-UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "PlayerXLinks") # For Force Subscription
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001899231989")) 
+UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "mdiskconvertorupdates") # For Force Subscription
 BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "True") # true if forward should be avoided
 WELCOME_IMAGE = os.environ.get("WELCOME_IMAGE", '') # image when someone hit /start # image when someone hit /start
 LINK_BYPASS = "False"
