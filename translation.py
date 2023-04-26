@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Mdiskconvertor.site, Bulk Link Converter. I Can Convert Links Directly From Your Account,
+I Am Ziplinker.net, Bulk Link Converter. I Can Convert Links Directly From Your Account,
     
-1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
+1. Go To 👉 https://Ziplinker.net/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -18,11 +18,11 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly than **contact** at 👉 @Shubhamdev64 (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of Ziplinker.net than **contact** at 👉 @cyniteoffcial (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am mdiskconvertor.site, Bulk Link Converter Bot. I Can Convert Links Directly From Your mdiskconvertor.site Account,**
+I Am Ziplinker.net, Bulk Link Converter Bot. I Can Convert Links Directly From Your Ziplinker.net Account,**
     
 1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
 2. Than **Copy API** Key
@@ -37,7 +37,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""mdiskconvertor.site** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Ziplinker.net** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
 '''
 
 ABOUT_TEXT = '''**Hey! My name is @mdisk_url_convertor_bot. I am mdiskconvertor.site Converter Bot.**
@@ -96,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://mdiskconvertor.site/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://Ziplinker.net/member/tools/api')
     ]
 ])
 
@@ -110,7 +110,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://mdiskconvertor.site/ref/cyniteofficial)
+- Website: [{base_site}](https://Ziplinker.net/ref/cyniteofficial)
 
 - Site Link {base_site} Current Linked API: {Mdiskconvertor_api}
 
@@ -131,7 +131,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://mdiskconvertor.site/ref/cyniteofficial)
+Get API From [{base_site}](https://Ziplinker.net/ref/cyniteofficial)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -160,7 +160,7 @@ Or
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @Shubhamdev64 For More Help -**"""
+**- Message @arkofficialll For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
