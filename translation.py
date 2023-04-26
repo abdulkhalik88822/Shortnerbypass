@@ -40,7 +40,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Ziplinker.net** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @mdisk_url_convertor_bot. I am mdiskconvertor.site Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @Ziplinkerbot. I am Ziplinker.net Converter Bot.**
 
 **⚡Features⚡**
 
@@ -154,9 +154,9 @@ USERNAME_TEXT = """**Hello {}, I am Mdisk URL convertor, Bulk Link Converter Bot
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @mdiskconvertorupdates
+/channel @Ark_Backup
 Or
-/channel http://t.me/mdiskconvertorupdates
+/channel http://t.me/Ark_Backup
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
