@@ -15,6 +15,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
+**🔗 Hit** 👉 /api To Know More About How To Link Ziplinker.net Account To This Bot.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
