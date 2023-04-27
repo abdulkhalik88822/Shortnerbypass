@@ -108,7 +108,7 @@ async def footer_handler(bot, m: Message):
         await update_user_info(user_id, {"footer_text": footer_text})
         await m.reply("Footer Text Updated Successfully")
 
-@Client.on_message(filters.command('channel') & filters.private)
+@Client.on_message(filters.command('username') & filters.private)
 async def username_handler(bot, m: Message):
     user_id = m.from_user.id
     user = await get_user(user_id)
