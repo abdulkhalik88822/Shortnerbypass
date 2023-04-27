@@ -96,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://Ziplinker.net/member/tools/api')
+        InlineKeyboardButton('Connect To ZipLinker', url=f'https://Ziplinker.net/member/tools/api')
     ]
 ])
 
