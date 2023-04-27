@@ -127,13 +127,22 @@ USER_ABOUT_MESSAGE = """
 
 
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
-`/set_api [api]`
-            
-Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+1. Go To👉** https://Ziplinker.net/member/tools/api?connect=true
+2. Than **Copy API** Key
+3. Than Type **/api** than a single space than paste **your API Key** (see example to understand more...)
 
-Get API From [{base_site}](https://Ziplinker.net/ref/cyniteofficial)
+To Link Your Ziplinker.net Account : Just Type 👇 
+ /api<space>API Key 
+(See Example.👇)
 
-Current {base_site} API: `{shortener_api}`"""
+Example:
+`/api 04e8ee10b5f123456a640cxbnjifg57b8f33195abc`
+
+🤘 Hit 👉 /features To Know More Features Of This Bot.
+
+Get API - [{base_site}](https://Ziplinker.net/ref/cyniteofficial)
+
+Current API: `{shortener_api}`"""
 
 HEADER_MESSAGE = """Reply to the Header Text You Want
 
