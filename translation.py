@@ -14,7 +14,7 @@ I Am Ziplinker.net, Bulk Link Converter. I Can Convert Links Directly From Your 
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
-**💁‍♀️ Hit** 👉 /help To Get Help.
+#hello
 **🔗 Hit** 👉 /api To Know More About How To Link Ziplinker.net Account To This Bot.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
@@ -53,7 +53,7 @@ ABOUT_TEXT = '''**Hey! My name is @Ziplinkerbot. I am Ziplinker.net Converter Bo
 
 • I Can **replace / remove** other's **channel links** with **your channel** link. Hit 👉 /channel To know More...
 
-• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner To Know More... 
+• I Can **Automatically Replace** Your ***Banner** Image To images in the post. Hit  👉/Banner_image To Know More... 
 
 • **No** need to share **password or email** to convert links.**
 
